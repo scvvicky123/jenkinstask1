@@ -1,0 +1,5 @@
+
+file1_branch2
+
+#file1_branch1
+>>>>>>> 918d5dc (made changes in 'files' branch1)
