@@ -1,6 +1,0 @@
-
-filer2_branch2
-
-#file2_branch2
->>>>>>> 918d5dc (made changes in 'files' branch1)
-
